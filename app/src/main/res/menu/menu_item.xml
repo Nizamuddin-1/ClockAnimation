@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Edge Lights"
+        android:id="@+id/edge"
+        android:icon="@drawable/baseline_bedtime_24"/>
+    <item
+        android:title="ACD"
+        android:id="@+id/acd"
+        android:icon="@drawable/baseline_assistant_navigation_24"/>
+    <item
+        android:title="Setting"
+        android:id="@+id/setting"
+        android:icon="@drawable/baseline_brightness_high_24"/>
+    <item
+        android:title="Premium"
+        android:id="@+id/premium"
+        android:icon="@drawable/baseline_brightness_1_24"/>
+
+
+
+
+</menu>
